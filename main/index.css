@@ -1,0 +1,77 @@
+body {
+  background-color: white;
+
+}
+h2{
+  color: black;
+  font-sixe: 43px;
+  font-family: verdana;
+}
+h1{
+  color: black;
+  font-family: verdana;
+  font-size: 43px;
+  text-align: center;
+  positon: absolute;
+  top: 50%;
+  left: 50%;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: black;
+  font-family: verdana;
+  font-size: 43px;
+  text-align: center;
+  positon: absolute;
+  top: 50%;
+  left: 50%;
+  padding-top: 150px;
+  padding-bottom: 20px;
+}
+
+h4 {
+  color: black;
+  font-family: verdana;
+  font-size: 43px;
+  text-align: center;
+  positon: absolute;
+  top: 50%;
+  left: 50%;
+  padding-top: 150px;
+}
+li{
+ color: black;
+ font-family: verdana;
+ font-size: 25px;
+ positon:absolute;
+ margin-top:10px;
+ margin-bottom: 20px;
+ margin-right: 10px;
+}
+
+.rgf button{
+  margin-right: 20px;
+  width: 100px;
+  height: 50px;
+}
+.rgf a{
+  color: lightblue;
+   margin-top: 5px;
+}
+
+.ipa h5{
+  color: #4B68AB;
+}
+
+.kb p{
+  color: #2E5090;
+}
+.carousel-inner div{
+  positon: absolute;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
